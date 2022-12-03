@@ -1,0 +1,35 @@
+{
+  "name": "nodejs-random-string",
+  "version": "1.0.0",
+  "description": "efficient nodejs random string generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/girishbaranda/nodejs-random-string.git"
+  },
+  "keywords": [
+    "randomstring",
+    "random",
+    "string",
+    "efficient",
+    "random",
+    "string"
+  ],
+  "author": "tech.planner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/girishbaranda/nodejs-random-string/issues"
+  },
+  "homepage": "https://github.com/girishbaranda/nodejs-random-string#readme",
+  "dependencies": {
+    "array-uniq": "^3.0.0",
+    "randombytes": "^2.1.0"
+  },
+  "devDependencies": {
+    "mocha": "^10.1.0"
+  },
+  "type": "module"
+}
